@@ -1,1 +1,2 @@
 # Covid-Detection
+The project involved developing a CNN-based model to detect COVID-19 from chest X-ray scans using TensorFlow and Keras. The model was trained on Kaggle's X-ray dataset and achieved high accuracy, significantly outperforming baseline models. To enhance model transparency, Grad-CAM was integrated, allowing visual explanations by highlighting critical regions in the X-rays. Additionally, the model's accuracy was further improved by optimizing the architecture with ReLU activation and max-pooling techniques.
